@@ -8,6 +8,10 @@ Three free workflow templates for [n8n](https://n8n.io). They are for agencies a
 | [`02-client-approval-wait-link`](02-client-approval-wait-link/) | An AI agent drafts a reply in the client's voice. The client's approver gets the draft by email with a link to a form and can approve, edit, ask for changes or reject, without an n8n account. Only approved text is sent, and its SHA-256 fingerprint is checked again just before sending. |
 | [`03-hash-chained-agent-run-log`](03-hash-chained-agent-run-log/) | Logs every AI agent run (answered, failed or refused) per client in a SHA-256 hash chain in a Data table. A daily check recomputes every chain and emails you the first changed, missing or reordered entry. A verify endpoint returns one client's chain status. |
 
+## On n8n.io
+
+The same templates in the n8n template library: [01 Per-client spend cap](https://n8n.io/workflows/20333) · [02 Client approval wait link](https://n8n.io/workflows/20885) · [03 Hash-chained agent run log](https://n8n.io/workflows/20696).
+
 ## Import into n8n
 
 1. Download the `.json` file from the folder (open the file on GitHub and use **Download raw file**, or clone this repository).
