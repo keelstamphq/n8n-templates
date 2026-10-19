@@ -26,7 +26,7 @@ Self-hosted n8n 2.41.6 on Node.js 24 with the default SQLite database, against a
 
 ## Keelstamp
 
-The templates work on their own; you do not need Keelstamp to use them. They were made by the team behind [Keelstamp](https://keelstamp.com), which is in development.
+The templates work on their own; you do not need Keelstamp to use them. They were made by the team behind [Keelstamp](https://keelstamp.com), which is in development. Nothing is released yet. If you want a seat when it is, the Founding Partner pre-order is open: [keelstamp.com/founding](https://keelstamp.com/founding?utm_source=github&utm_medium=readme&utm_campaign=n8n_templates).
 
 ## License
 
